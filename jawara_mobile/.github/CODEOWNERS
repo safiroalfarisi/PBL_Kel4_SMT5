@@ -1,0 +1,6 @@
+# Code owners: prefer that core app files are reviewed by the mobile-team
+# Syntax: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Require review for main and routes changes
+/lib/main.dart @mobile-team
+/lib/routes.dart @mobile-team
